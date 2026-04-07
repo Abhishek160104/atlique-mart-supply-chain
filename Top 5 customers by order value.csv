@@ -1,0 +1,11 @@
+Customer,City,Order value,OTIF %,OT %,IF %
+"Foodtown
+ID 789301","New Jersey, US",₹50.58M,0.575,0.820,0.725
+"Whole Foods Market
+ID 789320","New Jersey, US",₹50.02M,0.620,0.826,0.750
+"Lidl
+ID 789420","New Jersey, US",₹49.36M,0.192,0.244,0.747
+"Price Rite
+ID 789601","New Jersey, US",₹48.87M,0.231,0.837,0.286
+"ShopRite
+ID 789220","New Jersey, US",₹48.48M,0.662,0.859,0.770

@@ -1,0 +1,24 @@
+   Atlique Mart — Supply Chain KPI Dashboard,,,,,
+   Data period: March 2025 – May 2025  |  Source: fact_order_line,,,,,
+,,,,,
+,Total Order Lines,Total Orders,Total Ordered Qty,Total Delivered Qty,Revenue (INR)
+,"24,195","13,467","5,676,448","5,483,166",₹944.15M
+,,,,,
+,SERVICE KPIs,,,,
+,"Line Fill
+Rate","Volume Fill
+Rate","On Time
+Delivery %","In Full
+Delivery %","On Time
+In Full %"
+,65.93%,96.6%,71.21%,65.93%,47.84%
+,Lines fully delivered,Qty delivered / ordered,Delivered on/before date,Full qty delivered,On-time AND full qty
+,,,,,
+,KPI Definitions,,,,
+,Total Order Lines,Total number of individual product lines across all orders,,,
+,Line Fill Rate,% of order lines where full quantity was delivered  =  In-Full Lines / Total Lines × 100,,,
+,Volume Fill Rate,% of total quantity delivered vs ordered  =  Delivered Qty / Ordered Qty × 100,,,
+,Total Orders,Count of unique order IDs placed in the period,,,
+,On Time Delivery %,% of lines delivered on or before the agreed delivery date,,,
+,In Full Delivery %,% of lines where complete ordered quantity was fulfilled,,,
+,On Time In Full %,% of lines that were BOTH on-time AND fully delivered (OTIF),,,
